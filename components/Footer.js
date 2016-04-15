@@ -7,10 +7,12 @@ import { Link } from 'react-router'
 class Footer extends Component {
 
   render() {
+    // const { toggleReverse } = this.props
+
     return (
       <footer className="flexItem-none py-3 bgDarker-1">
-        <div className="maxW-4 mx-auto px-3 px-4@sm">
-          <ul className="listReset lineHeight-44 mb-0 flex@sm flex-wrap items-center">
+        <div className="maxW-4 mx-auto px-3 px-4@sm flex@sm flex-wrap">
+          <ul className="listReset lineHeight-44 mb-0 flex@sm flex-wrap items-center mr-auto@sm">
             <li className="inlineBlock mr-3">
               <Link to={prefixLink('/work/')}>Work</Link>
             </li>
@@ -20,7 +22,7 @@ class Footer extends Component {
             <li className="inlineBlock mr-3">
               <a href={prefixLink('/resume.pdf')}>Résumé</a>
             </li>
-            <li className="inlineBlock mr-auto">
+            <li className="inlineBlock mr-3">
               <Link to={prefixLink('/colophon/')}>Colophon</Link>
             </li>
             <li className="inlineBlock mr-3">
@@ -33,11 +35,41 @@ class Footer extends Component {
               <a href={'https://github.com/' + config.github}>GitHub</a>
             </li>
           </ul>
+          { this.button }
         </div>
       </footer>
     )
   }
 
+  // TODO: This doesn't work consistently. It seems like it works most/all of the
+  //       time if "dark mode" is auto-triggered by the root template.js, but is
+  //       very inconsistent otherwise.
+  buttonMarkup = () => {
+    return (
+      <span className="inlineBlock lineHeight-44 flex@sm flex-wrap items-center">
+        <button type="button nowrap" onClick={this.props.toggleReverse} className="btn">
+          {/* I don't understand why the check is negated here. It didn't need to be until I pulled this out of render() */}
+          {!this.props.isReverse ? 'Turn on the lights' : 'Turn off the lights'}
+        </button>
+      </span>
+    )
+  }
+
+  componentDidMount = () => {
+    this.button = this.buttonMarkup()
+  }
+
+  componentWillUpdate = () => {
+    this.button = this.buttonMarkup()
+  }
+
+}
+
+Footer.button = null
+
+Footer.propTypes = {
+  isReverse: PropTypes.bool,
+  toggleReverse: PropTypes.func
 }
 
 export default Footer
