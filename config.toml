@@ -1,9 +1,9 @@
-siteTitle = "Site Title"
-url = "http://example.com"
+siteTitle = "Roma Psicologia"
+url = "http://www.romapsicologia.it"
 linkPrefix = "/notUsedYet"
 email = "name@example.com"
-twitter = "@handle"
-github = "username"
+twitter = "@Psicoroma"
+facebook = "consulenzapsicologica.roma.5"
 
 [js]
 head = """
