@@ -10,7 +10,24 @@
 	width: 4px;
 
   @media (--bp-md) {
-    left: calc(25% - 2px);
+    left: calc(33% - 2px);
+  }
+}
+
+
+.sectionBlock--romaPsicologia::before {
+  background-color: var(--sectionBlockBorder-4);
+
+  @nest .is-reverse & {
+    background-color: var(--sectionBlockBorder-4-reverse);
+  }
+}
+
+.sectionBlock--famiglia::before {
+  background-color: var(--sectionBlockBorder-1);
+
+  @nest .is-reverse & {
+    background-color: var(--sectionBlockBorder-1-reverse);
   }
 }
 

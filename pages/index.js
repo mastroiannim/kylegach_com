@@ -17,7 +17,13 @@ class Home extends Component {
           <div dangerouslySetInnerHTML={{ __html: config.header.text }} />
         </HeaderBlock>
         <main role="main">
-
+          <SectionBlock
+            title={config.famiglia.title}
+            blurb={config.famiglia.blurb}
+          >
+            <Pages pages={route.pages} folder={config.famiglia.dir} limit={2} />
+          </SectionBlock>
+        
           <SectionBlock
             title={config.work.title}
             blurb={config.work.blurb}
