@@ -55,45 +55,50 @@ text = '''
 <p><span class="bold">la psicologia in rete e sul territorio</span></p>
 '''
 
-[famiglia]
-title = "famiglia"
-blurb = "famiglia."
-dir = "famiglia"
+[mission]
+title = "mission"
+blurb = '''
+Vogliamo creare spazio di frequentazione con la psicologia per fare proposte e raccogliere idee e riscontri.
+'''
+dir = "mission"
 
 [work]
-title = "Work"
-blurb = "I sintomi portati in consulenza sono indicatori che ci aiutano a capire il problema vissuto nei contesti di appartenenza. Perciò nel percorso di analisi si indaga il significato del sintomo in rapporto al contesto. Non esistono ricette universali per risolvere i problemi vissuti, ma percorsi di senso che vale la pena attraversare per sviluppare la competenza a comprendere i contesti in cui si vive e lavora, e a parteciparvi in maniera produttiva."
+title = "Attività di prossimo avvio"
+blurb = "I sintomi portati in consulenza sono indicatori che ci aiutano a capire il problema vissuto nei contesti di appartenenza. "
 dir = "work"
 
 [writing]
-title = "Writing"
-blurb = "Nel nostro lavoro aiutiamo le persone a sviluppare una competenza a progettare, in altri termini a tenere insieme desideri e limiti di realtà. E' un processo che ha a che fare con la competenza a riconoscere quello che si è costruito nelle esperienze passate piuttosto che guardare a quello che non si ha, e a reinvestire quanto già fatto in un progetto che guarda al futuro. Dello sviluppo di questa competenza ci occupiamo attraverso il nostro servizio di consulenza e proponendo spazi di confronto e sviluppo, organizzati in incontri di gruppo."
+title = "Blog"
+blurb = "Nel nostro lavoro aiutiamo le persone a sviluppare una competenza a progettare, in altri termini a tenere insieme desideri e limiti di realtà."
 dir = "writing"
 
 [about]
-title = "About Title"
+title = "Chi Siamo"
 text = '''
 <div class="left@md mb-3 flex@sm items-center">
-  <img src="/avatar.jpg" srcset="/avatar@2x.jpg 2x" width="150" height="150" alt="Profile picture of you" class="avatar block flexItem-25 w-25 mx-auto mb-3 mr-3@sm ml-0@sm mb-0@sm circle border borderColor-light" />
-  <p class="flexItem-auto">About you...</p>
+  <img src="/avatar.jpg" srcset="/avatar@2x.jpg 2x" width="150" height="150" alt="Profile picture of you" class="avatar block flexItem-25 w-25 mx-auto mb-3 mr-1@sm ml-1@sm mb-1@sm mt-1@sm circle border borderColor-light" />
+  <p class="flexItem-auto">Proponiamo uno specifico momento di intervento psicologico che si occupa degli agiti emozionali collusivi nei sistemi di appartenenza, attraverso l'utilizzo di relazioni psicoanaliticamente fondate.</p>
 </div>
-<div class="left@sm w-33@sm pr-2@sm mb-3 mb-0@sm">
-  <h3 class="h4 mb-0">A list of things</h3>
-  <ul style="margin-top:1.5rem">
-    <li>One thing</li>
-    <li>Two thing</li>
-    <li>Red thing</li>
-    <li>Blue thing</li>
-  </ul>
+<div class="left@sm w-50@sm pr-1@sm">
+  <h3 class="h4 mb-0">Dott.ssa Mastroianni</h3>
+  <div class="fs-6">
+      <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/26b/3ad/3181d47.jpg"
+      class="left@sm w-33@sm mr-1@sm ml-1@sm mb-1@sm mt-1@sm circle border borderColor-light" alt=""></a>
+      <div class="mt-1@sm">
+        <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
+        <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
+      </div>
+  </div>
 </div>
-<div class="left@sm w-33@sm pl-2@sm">
-  <h3 class="h4 mb-0">Open, accessible, fast, responsive</h3>
-  <ul style="margin-top:1.5rem">
-    <li>Please</li>
-    <li>Build</li>
-    <li>With</li>
-    <li>Progressive</li>
-    <li>Enhancement</li>
-  </ul>
+<div class="left@sm w-50@sm pl-1@sm">
+  <h3 class="h4 mb-0">Dott. Olivieri</h3>
+  <div class="fs-6">
+      <a href="https://it.linkedin.com/in/paolo-olivieri-64a4884a"><img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/06a/163/0d2f189.jpg"
+      class="left@sm w-33@sm mr-1@sm ml-1@sm mb-1@sm mt-1@sm circle border borderColor-light" alt=""></a>
+      <div class="mt-1@sm">
+        <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
+        <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
+      </div>
+  </div>
 </div>
 '''

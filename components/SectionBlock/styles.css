@@ -23,7 +23,7 @@
   }
 }
 
-.sectionBlock--famiglia::before {
+.sectionBlock--mission::before {
   background-color: var(--sectionBlockBorder-1);
 
   @nest .is-reverse & {
@@ -31,7 +31,7 @@
   }
 }
 
-.sectionBlock--work::before {
+.sectionBlock--attivitaDiProssimoAvvio::before {
   background-color: var(--sectionBlockBorder-2);
 
   @nest .is-reverse & {
@@ -39,7 +39,7 @@
   }
 }
 
-.sectionBlock--writing::before {
+.sectionBlock--blog::before {
   background-color: var(--sectionBlockBorder-3);
 
   @nest .is-reverse & {
@@ -47,7 +47,7 @@
   }
 }
 
-.sectionBlock--about::before {
+.sectionBlock--chiSiamo::before {
   background-color: var(--sectionBlockBorder-4);
 
   @nest .is-reverse & {

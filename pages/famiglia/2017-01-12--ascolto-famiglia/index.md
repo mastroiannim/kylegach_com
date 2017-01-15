@@ -1,7 +1,0 @@
----
-title: Ascolto famiglia
-path: /famiglia/ascolto-famiglia/
-date: 2017-01-12T09:01:34Z
----
-
-At [CivicPlus](http://civicplus.com), we help government work better by building websites^[We don’t just make [websites](http://www.civicplus.com/government-website-design-civicengage). We also build [other](http://www.civicplus.com/civicready-emergency-notification-system) [products](http://www.civicplus.com/human-resource-software-local-government) that help government work better.] for municipalities like cities &amp; counties. Over the years, we had developed a process not unlike an assembly line, with the site going from Design &rarr; Web Administrators &rarr; Content Development in a strictly linear fashion. Any kind of back-and-forth was considered a failure in the process, as it _always_ resulted in more time. Worse, each department had evolved its own efficiencies unique to this process to speed things up as much as possible. Design was creating pixel-perfect comps of highly-static, fixed-width sites that looked very similar to one another, so as to reduce the work of the Web Admins. After those comps were approved by the client, Web Admins would build the site using an antiquated system of textboxes for HTML snippets and directly-edited database tables that would output a `table`-based layout filled with _lots_ of extraneous markup.

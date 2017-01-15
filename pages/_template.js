@@ -68,8 +68,8 @@ class Template extends Component {
        if the effect is off by ±2 hrs.
     */
     const time = moment()
-    const sunset = suncalc.getTimes(time, 40.027435, -105.251945).sunset
-    const sunrise = suncalc.getTimes(time, 40.027435, -105.251945).sunrise
+    const sunset = suncalc.getTimes(time, 41.9, 12.4833).sunset
+    const sunrise = suncalc.getTimes(time, 41.9, 12.4833).sunrise
 
     if ( time.isAfter(sunset) || time.isBefore(sunrise) ) {
       this.toggleReverse()

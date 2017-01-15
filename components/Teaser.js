@@ -17,17 +17,28 @@ class Teaser extends Component {
     const byline = (date) ? (<Byline date={date} />) : ''
     // Create pruned version of the body.
     const html = page.data.body
+    const intro = access(page, 'data.intro')
+    const imageSrc = access(page, 'data.image') || "avatar.jpg"
     const pathBits = page.path.split('/')
     const id = pathBits[pathBits.length - 2]
-    const blurb = prune(html.replace(/<[^>]*>/g, ''), 200)
+    const blurb = access(page, 'data.blurb') || prune(html.replace(/<[^>]*>/g, ''), 210)
+    let img = null
+    if(!row) img = <img src={imageSrc} className="w-100@sm" alt=""></img>
 
     return (
       // TODO: Replace the flexItem-50 class with something more dynamic (quantity queries?)
-      <article className={row ? 'flexItem-50 mb-4 mb-0@sm pr-3@sm' : 'mb-4'} role="article">
-        <h3 id={id} className="h4 mb-0"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
-        {byline}
-        <div className="mt-2">{blurb}</div>
-        <Link to={prefixLink(page.path)} className="inlineBlock mt-2" aria-labelledby={id}>Keep reading&hellip;</Link>
+   
+      <article className={row ? 'flexItem-50 mb-1 mb-0@sm pr-3@sm' : 'mb-1'} role="article">
+        <div className="left@sm mb-1">
+            <h3 id={id} className="h4 mb-1"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
+            {byline}
+            <div className="flexItem-50 mb-0@sm pr-3@sm px-2@sm">
+                <Link className="left@sm px-2@sm" to={prefixLink(page.path)} >{img} </Link>
+                <div className="fs-4 mt-1">{blurb}</div>
+                <div className="fs-5 mt-1 w-100@sm">{intro}</div>
+            </div>
+            
+        </div>
       </article>
     )
   }

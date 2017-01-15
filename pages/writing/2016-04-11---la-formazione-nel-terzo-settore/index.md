@@ -1,6 +1,6 @@
 ---
-title: Colophon
-path: /colophon/
+title: La formazione nel terzo settore
+path: /la-formazione-nel-terzo-settore/
 date: 2016-04-11T16:01:34Z
 ---
 

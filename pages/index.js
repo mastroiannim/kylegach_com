@@ -17,25 +17,26 @@ class Home extends Component {
           <div dangerouslySetInnerHTML={{ __html: config.header.text }} />
         </HeaderBlock>
         <main role="main">
+        
           <SectionBlock
-            title={config.famiglia.title}
-            blurb={config.famiglia.blurb}
+            title={config.mission.title}
+            blurb={config.mission.blurb}
           >
-            <Pages pages={route.pages} folder={config.famiglia.dir} limit={2} />
+            <Pages pages={route.pages} folder={config.mission.dir} limit={5} />
           </SectionBlock>
         
           <SectionBlock
             title={config.work.title}
             blurb={config.work.blurb}
           >
-            <Pages pages={route.pages} folder={config.work.dir} limit={2} />
+            <Pages pages={route.pages} folder={config.work.dir} limit={4} />
           </SectionBlock>
 
           <SectionBlock
             title = {config.writing.title}
             blurb = {config.writing.blurb}
             link = {'/' + config.writing.dir + '/'}
-            linkText="Archives"
+            linkText="archivio"
           >
             <Pages pages={route.pages} folder={config.writing.dir} limit={2} row />
           </SectionBlock>

@@ -6,7 +6,7 @@ import toTitleCase from 'to-title-case'
 import Pages from 'components/Pages'
 
 
-class FamigliaIndex extends Component {
+class MissionIndex extends Component {
   render () {
     const { route } = this.props
 
@@ -14,15 +14,15 @@ class FamigliaIndex extends Component {
       <main className="maxW-3 mx-auto" role="main">
         <Helmet title={toTitleCase(route.page.file.dirname)} />
         <h1 className="h1 mb-2">{toTitleCase(route.page.file.dirname)}</h1>
-        <p className="fs-3 mb-4" dangerouslySetInnerHTML={{ __html: config.famiglia.blurb }} />
+        <p className="fs-3 mb-4" dangerouslySetInnerHTML={{ __html: config.mission.blurb }} />
         <Pages pages={route.pages} folder={route.page.file.dirname} />
       </main>
     )
   }
 }
 
-export default FamigliaIndex
+export default MissionIndex
 
-FamigliaIndex.propTypes = {
+MissionIndex.propTypes = {
   route: PropTypes.object
 }
