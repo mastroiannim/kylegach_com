@@ -3,7 +3,7 @@ title: Consulenza psicologica e psicoterapia
 path: /mission/psicoterapia/
 blurb: Un servizio di consulenza su problemi.
 intro: I sintomi portati in consulenza sono indicatori che ci aiutano a capire il problema vissuto nei contesti di appartenenza.
-image: "http://www.romapsicologia.it/wp-content/uploads/2014/08/manofoglia.png"
+image: "psicoterapia.png"
 responsibilities: Front-end development & architecture; Concept generation;
 ---
 

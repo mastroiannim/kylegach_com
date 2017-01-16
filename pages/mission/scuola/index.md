@@ -3,7 +3,7 @@ title: Orientamento scolastico
 path: /mission/scuola/
 blurb: Uno spazio dedicato ai problemi che vivono le famiglie.
 intro: Occuparci di orientamento scolastico per noi significa dare senso, insieme allo studente che ci richiede un aiuto, ai problemi che vive in rapporto allo studio. 
-figure: AnAllNewWayToBuildWebsites
+image: "scuola.png"
 responsibilities: Front-end development & architecture; Concept generation;
 ---
 

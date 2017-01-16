@@ -3,7 +3,7 @@ title: Ascolto famiglia
 path: /mission/ascolto-famiglia/
 blurb: Uno spazio dedicato ai problemi che vivono le famiglie.
 intro: Aiutiamo le famiglie nell'affrontare di cambiamenti che continuamente attraversano e i vissuti che accompagnano questi cambiamenti.
-image: "http://www.romapsicologia.it/wp-content/uploads/2014/02/casa.png"
+image: "ascolto-famiglia.png"
 responsibilities: Front-end development & architecture; Concept generation;
 ---
 

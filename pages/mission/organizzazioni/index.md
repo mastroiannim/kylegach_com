@@ -3,7 +3,7 @@ title: Servizi alle organizzazioni
 path: /mission/organizzazioni/
 blurb: Progettazione, formazione  e supervisione di equipe di lavoro.
 intro: I nostri servizi sono  rivolti alle organizzazioni, aziende pubbliche o private, associazioni diversamente connotate che richiedono un intervento in merito ad un problema.
-image: "http://www.romapsicologia.it/wp-content/uploads/2014/02/1-e1407259223557.png"
+image: "servizi-alle-organizzazioni.png"
 responsibilities: Front-end development & architecture; Concept generation;
 ---
 

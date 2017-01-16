@@ -3,7 +3,7 @@ title: Sviluppo professionale
 path: /mission/professionale/
 blurb: Proponiamo come strumenti di sviluppo professionale "corsi di formazione" e "tavole rotonde" relativi a diversi contesti lavorativi.
 intro: Nel nostro lavoro aiutiamo le persone a sviluppare una competenza a progettare, in altri termini a tenere insieme desideri e limiti di realtà.
-image: "http://www.romapsicologia.it/wp-content/uploads/2014/08/omini.png"
+image: "sviluppo-professionale.png"
 responsibilities: Front-end development & architecture; Concept generation;
 ---
 

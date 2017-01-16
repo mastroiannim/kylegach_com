@@ -23,19 +23,19 @@ class Teaser extends Component {
     const id = pathBits[pathBits.length - 2]
     const blurb = access(page, 'data.blurb') || prune(html.replace(/<[^>]*>/g, ''), 210)
     let img = null
-    if(!row) img = <img src={imageSrc} className="w-100@sm" alt=""></img>
+    if(!row) img = <Link to={prefixLink(page.path)}><img src={imageSrc} className="circle flexItem-25 left@sm px-2@sm mb-1" alt="{title}"></img></Link>
 
     return (
       // TODO: Replace the flexItem-50 class with something more dynamic (quantity queries?)
    
       <article className={row ? 'flexItem-50 mb-1 mb-0@sm pr-3@sm' : 'mb-1'} role="article">
-        <div className="left@sm mb-1">
+        <div className="left@sm mb-1 border borderColor-light">
             <h3 id={id} className="h4 mb-1"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
             {byline}
-            <div className="flexItem-50 mb-0@sm pr-3@sm px-2@sm">
-                <Link className="left@sm px-2@sm" to={prefixLink(page.path)} >{img} </Link>
-                <div className="fs-4 mt-1">{blurb}</div>
-                <div className="fs-5 mt-1 w-100@sm">{intro}</div>
+            <div className="flexItem-66">
+                {img}
+                <div className="fs-5 mt-1">{prune(blurb.replace(/<[^>]*>/g, ''), 100)}</div>
+                <div className="fs-5 mt-1 w-100@sm">{prune(intro.replace(/<[^>]*>/g, ''), 100)}</div>
             </div>
             
         </div>
