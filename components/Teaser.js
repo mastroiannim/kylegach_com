@@ -18,7 +18,7 @@ class Teaser extends Component {
     // Create pruned version of the body.
     const html = page.data.body
     const intro = access(page, 'data.intro')
-    const imageSrc = access(page, 'data.image') || "avatar.jpg"
+    const imageSrc = access(page, 'data.image') || "logo.png"
     const pathBits = page.path.split('/')
     const id = pathBits[pathBits.length - 2]
     const blurb = access(page, 'data.blurb') || prune(html.replace(/<[^>]*>/g, ''), 210)
