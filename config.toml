@@ -80,9 +80,9 @@ text = '''
   <p class="fs-4">Proponiamo uno specifico momento di intervento psicologico che si occupa degli agiti emozionali collusivi nei sistemi di appartenenza, attraverso l'utilizzo di relazioni psicoanaliticamente fondate.</p>
 </div>
 <div class="left@sm w-50@sm">
-  <h3 class="h4 my-1">Dott.ssa Mastroianni</h3>
+  <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><h3 class="h4 my-1">Dott.ssa Mastroianni</h3></a>
   <div class="fs-6">
-      <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><img src="carmela-mastroianni.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt=""></a>
+      <img src="carmela-mastroianni.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt="Carmela Mastroianni">
       <div class="mt-1@sm">
         <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
         <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
@@ -90,9 +90,9 @@ text = '''
   </div>
 </div>
 <div class="left@sm w-50@sm">
-  <h3 class="h4 my-1">Dott. Olivieri</h3>
+  <a href="https://it.linkedin.com/in/paolo-olivieri-64a4884a"><h3 class="h4 my-1">Dott. Olivieri</h3></a>
   <div class="fs-6">
-      <a href="https://it.linkedin.com/in/paolo-olivieri-64a4884a"><img src="paolo-olivieri.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt=""></a>
+      <img src="paolo-olivieri.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt="Paolo Olivieri">
       <div class="mt-1@sm">
         <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
         <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>

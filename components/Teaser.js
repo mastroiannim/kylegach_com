@@ -23,7 +23,7 @@ class Teaser extends Component {
     const id = pathBits[pathBits.length - 2]
     const blurb = access(page, 'data.blurb') || prune(html.replace(/<[^>]*>/g, ''), 210)
     let img = null
-    if(!row) img = <Link to={prefixLink(page.path)}><img src={imageSrc} className="circle flexItem-25 left@sm px-2@sm mb-1" alt="{title}"></img></Link>
+    if(!row) img = <Link to={prefixLink(page.path)}><img src={imageSrc} className="circle flexItem-25 left@sm px-2@sm mb-1" alt={title}></img></Link>
     let separator = null
     const br = "..."
     if(!row) separator = <span className="w-100@sm mb-1 border borderColor-light">{br}</span>
