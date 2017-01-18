@@ -75,26 +75,24 @@ dir = "writing"
 [about]
 title = "Chi Siamo"
 text = '''
-<div class="left@md mb-3 flex@sm items-center">
-  <img src="/avatar.jpg" srcset="/avatar@2x.jpg 2x" width="150" height="150" alt="Profile picture of you" class="avatar block flexItem-25 w-25 mx-auto mb-3 mr-1@sm ml-1@sm mb-1@sm mt-1@sm circle border borderColor-light" />
-  <p class="flexItem-auto">Proponiamo uno specifico momento di intervento psicologico che si occupa degli agiti emozionali collusivi nei sistemi di appartenenza, attraverso l'utilizzo di relazioni psicoanaliticamente fondate.</p>
+<div class="left@md mb-3 items-center">
+  <img src="/avatar.jpg" srcset="/avatar@2x.jpg 2x" width="150" height="150" alt="" class="avatar flexItem-33 w-33 mx-auto my-auto circle border borderColor-light" />
+  <p class="fs-4">Proponiamo uno specifico momento di intervento psicologico che si occupa degli agiti emozionali collusivi nei sistemi di appartenenza, attraverso l'utilizzo di relazioni psicoanaliticamente fondate.</p>
 </div>
-<div class="left@sm w-50@sm pr-1@sm">
-  <h3 class="h4 mb-0">Dott.ssa Mastroianni</h3>
+<div class="left@sm w-50@sm">
+  <h3 class="h4 my-1">Dott.ssa Mastroianni</h3>
   <div class="fs-6">
-      <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/2/000/26b/3ad/3181d47.jpg"
-      class="left@sm w-33@sm mr-1@sm ml-1@sm mb-1@sm mt-1@sm circle border borderColor-light" alt=""></a>
+      <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><img src="carmela-mastroianni.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt=""></a>
       <div class="mt-1@sm">
         <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
         <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
       </div>
   </div>
 </div>
-<div class="left@sm w-50@sm pl-1@sm">
-  <h3 class="h4 mb-0">Dott. Olivieri</h3>
+<div class="left@sm w-50@sm">
+  <h3 class="h4 my-1">Dott. Olivieri</h3>
   <div class="fs-6">
-      <a href="https://it.linkedin.com/in/paolo-olivieri-64a4884a"><img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/7/005/06a/163/0d2f189.jpg"
-      class="left@sm w-33@sm mr-1@sm ml-1@sm mb-1@sm mt-1@sm circle border borderColor-light" alt=""></a>
+      <a href="https://it.linkedin.com/in/paolo-olivieri-64a4884a"><img src="paolo-olivieri.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt=""></a>
       <div class="mt-1@sm">
         <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
         <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
