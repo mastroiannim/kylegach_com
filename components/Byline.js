@@ -6,7 +6,7 @@ class Byline extends Component {
 
   render() {
     const { date } = this.props
-
+    moment.locale('it');
     let postedOn = {}
     if (process.env.NODE_ENV === 'static') {
       postedOn = (<span>{moment(date).format('MMMM D, YYYY')}</span>)
