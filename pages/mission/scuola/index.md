@@ -3,8 +3,8 @@ title: Orientamento scolastico
 path: /mission/scuola/
 blurb: Uno spazio dedicato ai problemi che vivono le famiglie.
 intro: Occuparci di orientamento scolastico per noi significa dare senso, insieme allo studente che ci richiede un aiuto, ai problemi che vive in rapporto allo studio. 
-image: "scuola.png"
-responsibilities: Front-end development & architecture; Concept generation;
+figure: "scuola.png"
+goals: Front-end development & architecture; Concept generation;
 ---
 
 Sosteniamo le famiglie nell'elaborazione di una nascita e della funzione genitoriale^[We don’t just make [websites](http://www.civicplus.com/government-website-design-civicengage). We also build [other](http://www.civicplus.com/civicready-emergency-notification-system) [abc](http://www.civicplus.com/human-resource-software-local-government) that help government work better.], nell'elaborazione dei vissuti legati alla scelta di persone a cui affidare il proprio figlio.

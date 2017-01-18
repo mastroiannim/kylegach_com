@@ -3,8 +3,8 @@ title: Ascolto famiglia
 path: /mission/ascolto-famiglia/
 blurb: Uno spazio dedicato ai problemi che vivono le famiglie.
 intro: Aiutiamo le famiglie nell'affrontare di cambiamenti che continuamente attraversano e i vissuti che accompagnano questi cambiamenti.
-image: "ascolto-famiglia.png"
-responsibilities: Front-end development & architecture; Concept generation;
+figure: "ascolto-famiglia.png"
+goals: Front-end development & architecture; Concept generation;
 ---
 
 Sosteniamo le famiglie nell'elaborazione di una nascita e della funzione genitoriale^[We don’t just make [websites](http://www.civicplus.com/government-website-design-civicengage). We also build [other](http://www.civicplus.com/civicready-emergency-notification-system) [abc](http://www.civicplus.com/human-resource-software-local-government) that help government work better.], nell'elaborazione dei vissuti legati alla scelta di persone a cui affidare il proprio figlio.

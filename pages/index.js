@@ -22,14 +22,14 @@ class Home extends Component {
             title={config.mission.title}
             blurb={config.mission.blurb}
           >
-            <Pages pages={route.pages} folder={config.mission.dir} limit={5} />
+            <Pages pages={route.pages} folder={config.mission.dir} limit={5} home="mission"/>
           </SectionBlock>
         
           <SectionBlock
             title={config.work.title}
             blurb={config.work.blurb}
           >
-            <Pages pages={route.pages} folder={config.work.dir} limit={4} />
+            <Pages pages={route.pages} folder={config.work.dir} limit={2} />
           </SectionBlock>
 
           <SectionBlock

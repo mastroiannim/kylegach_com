@@ -29,10 +29,7 @@ class Footer extends Component {
                 <Link to={prefixLink('/writing/')}>Writing</Link>
               </li>
               <li className="inlineBlock mr-3">
-                <Link to={prefixLink('/resume/')}>Résumé</Link>
-              </li>
-              <li className="inlineBlock mr-3">
-                <Link to={prefixLink('/colophon/')}>Colophon</Link>
+                <Link to={prefixLink('/mission/')}>Mission</Link>
               </li>
             </ul>
           </nav>

@@ -4,7 +4,7 @@ import access from 'safe-access'
 
 import Byline from '../components/Byline'
 import CommentPrompt from '../components/CommentPrompt'
-import Figures from 'components/Figures'
+//import Figures from 'components/Figures'
 import ReadNext from 'components/ReadNext'
 
 import '../styles/markdown.css'
@@ -20,15 +20,15 @@ class MDWrapper extends Component {
     const title = access(page, 'data.title') || page.path
     const introTxt = access(page, 'data.intro') || ''
     const commentPrompt = access(page, 'data.commentPrompt') || false
-    const responsibilities = access(page, 'data.responsibilities') || ''
+    const goals = access(page, 'data.goals') || ''
     const figure = access(page, 'data.figure') || ''
 
     const byline = (date && dirName === 'writes') ? (<Byline date={date} />) : ''
 
     let intro
     let prompt
-    let Responsibilities = []
-    let Figure = []
+    let Goals = []
+    let Figure;
     let workHeader = []
 
     if ( introTxt ) {
@@ -40,43 +40,47 @@ class MDWrapper extends Component {
     }
 
     if ( figure ) {
-      Figure = React.createElement(Figures[figure], {})
+      //Figure = React.createElement(Figures[figure], {})
+      var style = {
+          border: "none"
+      };
+      Figure = <img className="w-100 mx-auto my-auto" src={figure} />
     }
 
-    if ( responsibilities && figure ) {
+    if ( goals && figure ) {
       let i = 0;
-      responsibilities.split('; ').map( function(item) {
+      goals.split('; ').map( function(item) {
         const listItem = (<li key={i} className="mb-1">{item}</li>)
-        Responsibilities.push(listItem)
+        Goals.push(listItem)
         i++
       })
 
       workHeader = (
         <div className="cf mt-2 mt-3@sm">
           <div className="markdown right@sm w-25@sm">
-            <h2 className="h5 mb-1">Responsibilities</h2>
+            <h2 className="h5 mb-1">Obiettivi</h2>
             <ul className="fs-5">
-              { Responsibilities }
+              { Goals }
             </ul>
           </div>
           <div className="left@sm w-75@sm mt-3 mt-0@sm pr-3@sm">
-            { Figure }
+            {Figure}
           </div>
         </div>
       )
-    } else if ( responsibilities ) {
+    } else if ( goals ) {
       workHeader = (
         <div className="markdown cf">
-          <h2 className="h5 left@sm mr-1@sm">Responsibilities</h2>
+          <h2 className="h5 left@sm mr-1@sm">Goals</h2>
           <p className="fs-5 overflow-hidden">
-            { responsibilities }
+            { goals }
           </p>
         </div>
       )
     } else if ( figure ) {
       workHeader = (
         <div className="mt-3">
-          { Figure }
+          {Figure}
         </div>
       )
     }

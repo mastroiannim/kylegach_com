@@ -8,11 +8,12 @@ import { include as includes } from 'underscore.string'
 
 import Teaser from 'components/Teaser'
 import WorkTeaser from 'components/WorkTeaser'
+import HomeTeaser from 'components/HomeTeaser'
 
 
 class Pages extends Component {
   render () {
-    const { pages, folder, limit, row } = this.props
+    const { pages, folder, limit, row, home } = this.props
 
     const pageLinks = []
     // Sort pages.
@@ -37,11 +38,18 @@ class Pages extends Component {
           case config.work.dir:
             pageLinks.push(
               <WorkTeaser key={page.path} page={page} />
-            )
+            ); 
+            break;
           default:
-            pageLinks.push(
-              <Teaser key={page.path} page={page} row={row} />
-            )
+            if(this.props.home == "mission"){
+                pageLinks.push(
+                  <HomeTeaser key={page.path} page={page} row={row} />
+                )
+            }else{
+                pageLinks.push(
+                  <Teaser key={page.path} page={page} row={row} />
+                )
+            }
         }
         i++
       }

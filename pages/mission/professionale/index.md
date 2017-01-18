@@ -3,8 +3,8 @@ title: Sviluppo professionale
 path: /mission/professionale/
 blurb: Proponiamo come strumenti di sviluppo professionale "corsi di formazione" e "tavole rotonde" relativi a diversi contesti lavorativi.
 intro: Nel nostro lavoro aiutiamo le persone a sviluppare una competenza a progettare, in altri termini a tenere insieme desideri e limiti di realtà.
-image: "sviluppo-professionale.png"
-responsibilities: Front-end development & architecture; Concept generation;
+figure: "sviluppo-professionale.png"
+goals: Front-end development & architecture; Concept generation;
 ---
 
 Sosteniamo le famiglie nell'elaborazione di una nascita e della funzione genitoriale^[We don’t just make [websites](http://www.civicplus.com/government-website-design-civicengage). We also build [other](http://www.civicplus.com/civicready-emergency-notification-system) [abc](http://www.civicplus.com/human-resource-software-local-government) that help government work better.], nell'elaborazione dei vissuti legati alla scelta di persone a cui affidare il proprio figlio.

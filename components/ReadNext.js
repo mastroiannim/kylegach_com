@@ -26,7 +26,7 @@ class ReadNext extends Component {
           if ( access(pages[j], 'file.ext') === 'md' && !draft ) {
             return (
               <div className="mt-4 p-2 pb-3 border borderColor-light">
-                <h3 className="fs-5 caps mb-3">Thanks for reading! Read this next?</h3>
+                <h3 className="fs-5 caps mb-3">Grazie per l'attenzione! vuoi leggere altro?</h3>
                 <Teaser page={pages[j]} />
               </div>
             )
@@ -35,8 +35,8 @@ class ReadNext extends Component {
 
         return (
           <div className="mt-4 p-2 border borderColor-light">
-            <h3 className="fs-5 caps mb-2">Thanks for reading!</h3>
-            <p>Check the <Link to={prefixLink('/' + config.writing.dir + '/')}>Archives</Link> for more.</p>
+            <h3 className="fs-5 caps mb-2">Grazie per l'attenzione!</h3>
+            <p>Accedi all' <Link to={prefixLink('/' + config.writing.dir + '/')}>archivio</Link> per leggere altro.</p>
           </div>
         )
       }

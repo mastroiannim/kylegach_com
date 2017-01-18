@@ -3,8 +3,8 @@ title: Consulenza psicologica e psicoterapia
 path: /mission/psicoterapia/
 blurb: Un servizio di consulenza su problemi.
 intro: I sintomi portati in consulenza sono indicatori che ci aiutano a capire il problema vissuto nei contesti di appartenenza.
-image: "psicoterapia.png"
-responsibilities: Front-end development & architecture; Concept generation;
+figure: "psicoterapia.png"
+goals: Front-end development & architecture; Concept generation;
 ---
 
 I sintomi portati in consulenza sono indicatori che ci aiutano a capire il problema vissuto nei contesti di appartenenza. Perciò nel percorso di analisi si indaga il significato del sintomo in rapporto al contesto.

@@ -3,8 +3,8 @@ title: Servizi alle organizzazioni
 path: /mission/organizzazioni/
 blurb: Progettazione, formazione  e supervisione di equipe di lavoro.
 intro: I nostri servizi sono  rivolti alle organizzazioni, aziende pubbliche o private, associazioni diversamente connotate che richiedono un intervento in merito ad un problema.
-image: "servizi-alle-organizzazioni.png"
-responsibilities: Front-end development & architecture; Concept generation;
+figure: "servizi-alle-organizzazioni.png"
+goals: Front-end development & architecture; Concept generation;
 ---
 
 Sosteniamo le famiglie nell'elaborazione di una nascita e della funzione genitoriale^[We don’t just make [websites](http://www.civicplus.com/government-website-design-civicengage). We also build [other](http://www.civicplus.com/civicready-emergency-notification-system) [abc](http://www.civicplus.com/human-resource-software-local-government) that help government work better.], nell'elaborazione dei vissuti legati alla scelta di persone a cui affidare il proprio figlio.

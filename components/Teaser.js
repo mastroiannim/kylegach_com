@@ -17,33 +17,18 @@ class Teaser extends Component {
     const byline = (date) ? (<Byline date={date} />) : ''
     // Create pruned version of the body.
     const html = page.data.body
-    const intro = access(page, 'data.intro') || ""
-    const imageSrc = access(page, 'data.image') || "logo.png"
     const pathBits = page.path.split('/')
     const id = pathBits[pathBits.length - 2]
-    const blurb = access(page, 'data.blurb') || prune(html.replace(/<[^>]*>/g, ''), 210)
-    let img = null
-    if(!row) img = <Link to={prefixLink(page.path)}><img src={imageSrc} className="circle flexItem-25 left@sm px-2@sm mb-1" alt={title}></img></Link>
-    let separator = null
-    const br = "..."
-    if(!row) separator = <span className="w-100@sm mb-1 border borderColor-light">{br}</span>
+    const blurb = prune(html.replace(/<[^>]*>/g, ''), 200)
 
     return (
       // TODO: Replace the flexItem-50 class with something more dynamic (quantity queries?)
-   
-      <article className={row ? 'flexItem-50 mb-1 mb-0@sm pr-3@sm' : 'mb-1'} role="article">
-        <div className="left@sm mb-1">
-            <h3 id={id} className="h4 mb-1"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
-            {byline}
-            <div className="flexItem-66">
-                {img}
-                <div className="fs-5 mt-1">{prune(blurb.replace(/<[^>]*>/g, ''), 100)}</div>
-                <div className="fs-5 mt-1 w-100@sm">{prune(intro.replace(/<[^>]*>/g, ''), 100)}</div>
-            </div>
-            {separator}
-        </div>
+      <article className={row ? 'flexItem-50 mb-4 mb-0@sm pr-3@sm' : 'mb-4'} role="article">
+        <h3 id={id} className="h4 mb-0"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
+        {byline}
+        <div className="mt-2">{blurb}</div>
+        <Link to={prefixLink(page.path)} className="inlineBlock mt-2" aria-labelledby={id}>Continua a leggere&hellip;</Link>
       </article>
-      
     )
   }
 }

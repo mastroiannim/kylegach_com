@@ -19,19 +19,21 @@ class WorkTeaser extends Component {
 
     let Figure = null
     if ( figure ) {
+      var style = {
+          border: "none"
+      };
       let srcFig = prefixLink(page.path) + figure
-      Figure = <img className="mx-auto center relative" src={srcFig} />
+      Figure = <Link style={style} to={prefixLink(page.path)}><img className="w-50 mx-auto center relative" src={srcFig} /></Link>
     }
 
     return (
-      <figure className="mb-4 flex@sm">
-        <div className="m-0 flexItem-auto">
+      <figure className="mb-2 flex@sm">
+        <div className="mr-5 ml-5 flexItem-33">
           { Figure }
         </div>
-        <figcaption className="flexItem-50 ml-3@sm mt-1 mt-0@sm">
-          <h3 id={id} className="h4 mb-2"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
-          <p className="mb-2">{blurb}</p>
-          <Link to={prefixLink(page.path)} className="inlineBlock" aria-labelledby={id}>Più informazioni&hellip;</Link>
+        <figcaption className="flexItem-66 ml-1@sm mt-1 mt-0@sm">
+          <h3 id={id} className="h4 mb-1"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
+          <p className="mb-0">{blurb}</p>
         </figcaption>
       </figure>
     )

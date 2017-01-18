@@ -12,8 +12,8 @@ class WorkIndex extends Component {
 
     return (
       <main className="maxW-3 mx-auto" role="main">
-        <Helmet title={toTitleCase(route.page.file.dirname)} />
-        <h1 className="h1 mb-2">{toTitleCase(route.page.file.dirname)}</h1>
+        <Helmet title={toTitleCase(config.work.title)} />
+        <h1 className="h1 mb-2">{toTitleCase(config.work.title)}</h1>
         <p className="fs-3 mb-4" dangerouslySetInnerHTML={{ __html: config.work.blurb }} />
         <Pages pages={route.pages} folder={route.page.file.dirname} />
       </main>
