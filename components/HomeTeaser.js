@@ -23,7 +23,7 @@ class WorkTeaser extends Component {
           border: "none"
       };
       let srcFig = prefixLink(page.path) + figure
-      Figure = <Link style={style} to={prefixLink(page.path)}><img className="w-50 mx-auto center relative" src={srcFig} /></Link>
+      Figure = <Link style={style} to={prefixLink(page.path)}><img className="w-auto mt-auto ml-2 mx-3 relative" src={srcFig} /></Link>
     }
 
     return (

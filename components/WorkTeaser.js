@@ -20,7 +20,7 @@ class WorkTeaser extends Component {
     let Figure = null
     if ( figure ) {
       let srcFig = prefixLink(page.path) + figure
-      Figure = <img className="mx-auto center relative" src={srcFig} />
+      Figure = <img className="mx-auto my-auto relative" src={srcFig} />
     }
 
     return (
