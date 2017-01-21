@@ -5,7 +5,7 @@ blurb:
 intro: Offriamo un servizio di orientamento scolastico e tutoraggio nell’apprendimento 
 figure: "scuola.png"
 ---
-
+![alt text](scuola.jpg)
 Occuparci di orientamento scolastico per noi significa dare senso ai problemi nello studio. 
 Spesso ci confrontiamo con situazioni di crisi o di stallo che parlano della difficoltà a connettere studio e desiderio. 
 Lo studio è fatto coincidere con i compiti, vissuti come un obbligo a cui adempiere oppure no. 

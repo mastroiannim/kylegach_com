@@ -5,6 +5,8 @@ blurb:
 intro: Aiutiamo le famiglie ad affrontare i cambiamenti che continuamente attraversano e i vissuti che li accompagnano, partendo dagli eventi critici che vengono portati in consulenza.
 figure: "ascolto-famiglia.png"
 ---
+![alt text](famiglia.jpg)
+
 ##### ANALISI DELLA DOMANDA
 Il servizio è strutturato in un primo colloquio nel quale viene analizzato il problema portato in consulenza e proposti criteri di lettura del problema stesso.
 ##### LAVORO SU OBIETTIVI CONCORDATI
