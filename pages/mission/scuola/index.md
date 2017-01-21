@@ -1,16 +1,16 @@
 ---
-title: Orientamento scolastico
+title: TUTORING DIDATTICO
 path: /mission/scuola/
-blurb: Uno spazio dedicato ai problemi che vivono le famiglie.
-intro: Occuparci di orientamento scolastico per noi significa dare senso, insieme allo studente che ci richiede un aiuto, ai problemi che vive in rapporto allo studio. 
+blurb: 
+intro: Offriamo un servizio di orientamento scolastico e tutoraggio nell’apprendimento 
 figure: "scuola.png"
-goals: Front-end development & architecture; Concept generation;
 ---
 
-Sosteniamo le famiglie nell'elaborazione di una nascita e della funzione genitoriale^[We don’t just make [websites](http://www.civicplus.com/government-website-design-civicengage). We also build [other](http://www.civicplus.com/civicready-emergency-notification-system) [abc](http://www.civicplus.com/human-resource-software-local-government) that help government work better.], nell'elaborazione dei vissuti legati alla scelta di persone a cui affidare il proprio figlio.
+Occuparci di orientamento scolastico per noi significa dare senso ai problemi nello studio. 
+Spesso ci confrontiamo con situazioni di crisi o di stallo che parlano della difficoltà a connettere studio e desiderio. 
+Lo studio è fatto coincidere con i compiti, vissuti come un obbligo a cui adempiere oppure no. 
+Gli studenti non vivono la scuola in rapporto con il loro futuro, e il rischio è quello di appiattire questa esperienza formativa dentro dinamiche di azione e reazione. 
 
-Sosteniamo le famiglie  nel momento in cui si pensa di assumere una badante per un genitore o parente anziano, oppure un assistente domiciliare per una persona non autosufficiente e si vivono dei vissuti contrastanti tra la necessità di trovare un aiuto e vissuti di diffidenza che non aiutano a costruire nuove relazioni.
+Forniamo un servizio di tutoraggio nell’apprendimento per ragazzi con disturbi specifici dell’apprendimento, fornendo strumenti di lavoro e aiutando i ragazzi ad elaborare le loro motivazioni e vissuti sulla scuola.
 
-Ci occupiamo della presa in carico di famiglie che vivono difficoltà legate a una disabilità fisica o mentale di un familiare e che vogliono uno spazio per elaborare i loro vissuti.
 
-Aiutiamo i genitori in difficoltà a costruire la propria funzione genitoriale ed educativa partendo da eventi critici che ci vengono portati in consulenza.

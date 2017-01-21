@@ -1,15 +1,16 @@
 ---
-title: Incontri in piccolo gruppo per chi lavora con bambini
-path: /work/incontri-in-piccolo-gruppo-per-chi-lavora-con-bambini/
-date: 2016-04-12T13:18:34Z
-blurb: Proponiamo incontri di gruppo finalizzati allo sviluppo di competenze spendibili nel lavoro con i bambini.
-intro: Spazi di manutenzione del proprio sviluppo professionale e dei contesti di riferimento.
-figure: "bambini.jpg"
+title: Incontri di gruppo per chi lavora nel contesto scolastico
+path: /work/incontri-di-gruppo-per-la-scuola/
+date: 2016-04-09T09:01:34Z
+blurb: Proponiamo incontri di gruppo finalizzati allo sviluppo di competenze spendibili nel lavoro nel contesto domiciliare.
+intro: Spazi di manutenzione del proprio sviluppo professionale nel contesto domiciliare.
+figure: "scuola.jpg"
+goals: insenanti; assistenti educativi culturali; ;
 ---
 
-Momenti di riflessione e approfondimento che possono essere utili a chi vorrebbe lavorare con i bambini, ma non ha ancora esperienza, o a chi ha un’esperienza pregressa e vorrebbe sviluppare le competenze già acquisite.
+Proponiamo incontri di gruppo finalizzati allo sviluppo di competenze spendibili nel lavoro nel contesto scolastico.
 
-Gli incontri sono quindi rivolti ad educatori, insegnanti, baby sitter, persone che lavorano con i bambini e che vorrebbero sviluppare strumenti utili per la propria crescita personale e professionale.
+Spazi di manutenzione del proprio sviluppo professionale dedicati agli insegnanti per esplorare le  problematiche incontrate nel contesto lavorativo.
 
 Gli incontri saranno finalizzati a costruire insieme al consulente e al gruppo di lavoro, categorie di pensiero che permettano di leggere in maniera produttiva le situazioni di lavoro che si incontrano quotidianamente, costruendo un funzione meta che permetta di verificare il proprio lavoro e svilupparne le potenzialità.
 

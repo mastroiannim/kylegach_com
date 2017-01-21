@@ -1,16 +1,17 @@
 ---
-title: Ascolto famiglia
+title: CONSULENZA ALLE FAMIGLIE
 path: /mission/ascolto-famiglia/
-blurb: Uno spazio dedicato ai problemi che vivono le famiglie.
-intro: Aiutiamo le famiglie nell'affrontare di cambiamenti che continuamente attraversano e i vissuti che accompagnano questi cambiamenti.
+blurb: 
+intro: Aiutiamo le famiglie ad affrontare i cambiamenti che continuamente attraversano e i vissuti che li accompagnano, partendo dagli eventi critici che vengono portati in consulenza.
 figure: "ascolto-famiglia.png"
-goals: Front-end development & architecture; Concept generation;
 ---
+##### ANALISI DELLA DOMANDA
+Il servizio è strutturato in un primo colloquio nel quale viene analizzato il problema portato in consulenza e proposti criteri di lettura del problema stesso.
+##### LAVORO SU OBIETTIVI CONCORDATI
+Gli obiettivi del percorso, specifico per ogni famiglia, vengono concordati con lo psicologo, così come il numero degli incontri utili.
+##### DI QUALI PROBLEMI CI OCCUPIAMO 
+* Proponiamo ai genitori strumenti utili per il riconoscimento della propria funzione genitoriale.
+- Accompagnamo le famiglie  nella scelta delle persone a cui affidare il proprio figlio in loro assenza.
+- Sosteniamo le famiglie nel momento in cui si pensa di assumere una badante per un genitore o parente anziano; un assistente domiciliare per una persona non autosufficiente.
++ Ci occupiamo della presa in carico dei vissuti di famiglie che vivono difficoltà legate a una disabilità fisica o mentale di un familiare.
 
-Sosteniamo le famiglie nell'elaborazione di una nascita e della funzione genitoriale^[We don’t just make [websites](http://www.civicplus.com/government-website-design-civicengage). We also build [other](http://www.civicplus.com/civicready-emergency-notification-system) [abc](http://www.civicplus.com/human-resource-software-local-government) that help government work better.], nell'elaborazione dei vissuti legati alla scelta di persone a cui affidare il proprio figlio.
-
-Sosteniamo le famiglie  nel momento in cui si pensa di assumere una badante per un genitore o parente anziano, oppure un assistente domiciliare per una persona non autosufficiente e si vivono dei vissuti contrastanti tra la necessità di trovare un aiuto e vissuti di diffidenza che non aiutano a costruire nuove relazioni.
-
-Ci occupiamo della presa in carico di famiglie che vivono difficoltà legate a una disabilità fisica o mentale di un familiare e che vogliono uno spazio per elaborare i loro vissuti.
-
-Aiutiamo i genitori in difficoltà a costruire la propria funzione genitoriale ed educativa partendo da eventi critici che ci vengono portati in consulenza.

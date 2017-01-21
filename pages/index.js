@@ -28,6 +28,8 @@ class Home extends Component {
           <SectionBlock
             title={config.work.title}
             blurb={config.work.blurb}
+            link = {'/' + config.work.dir + '/'}
+            linkText="archivio"
           >
             <Pages pages={route.pages} folder={config.work.dir} limit={2} />
           </SectionBlock>

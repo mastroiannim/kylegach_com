@@ -52,24 +52,25 @@ favicons = '''
 
 [header]
 text = '''
-<p><span class="bold">la psicologia in rete e sul territorio</span></p>
+<p><span class="bold">
+La Psicologia in rete e sul territorio</span></p>
 '''
 
 [mission]
 title = "mission"
 blurb = '''
-Vogliamo creare spazio di frequentazione con la psicologia per fare proposte e raccogliere idee e riscontri.
+Forniamo un servizio di consulenza sui problemi incontrati dalle persone nella vita quotidiana
 '''
 dir = "mission"
 
 [work]
 title = "Attività di prossimo avvio"
-blurb = "I sintomi portati in consulenza sono indicatori che ci aiutano a capire il problema vissuto nei contesti di appartenenza. "
+blurb = " Organizziamo incontri di gruppo finalizzati allo sviluppo professionale: spazi di condivisione e di ricognizione di strumenti utili per lo sviluppo della propria professionalità. L'obiettivo è quello di costruire strumenti di lavoro attraverso la condivisione di esperienze, l'esplorazione di problematiche e lo sviluppo di proposte, costruendo categorie di lettura dei contesti lavorativi."
 dir = "work"
 
 [writing]
 title = "Blog"
-blurb = "Nel nostro lavoro aiutiamo le persone a sviluppare una competenza a progettare, in altri termini a tenere insieme desideri e limiti di realtà."
+blurb = ".blebelelel."
 dir = "writing"
 
 [about]
@@ -77,7 +78,7 @@ title = "Chi Siamo"
 text = '''
 <div class="left@md mb-3 items-center">
   <img src="/avatar.jpg" srcset="/avatar@2x.jpg 2x" width="150" height="150" alt="" class="avatar flexItem-33 w-33 mx-auto my-auto circle border borderColor-light" />
-  <p class="fs-4">Proponiamo uno specifico momento di intervento psicologico che si occupa degli agiti emozionali collusivi nei sistemi di appartenenza, attraverso l'utilizzo di relazioni psicoanaliticamente fondate.</p>
+  <p class="fs-4">Riceviamo su appuntamento. Per fissare un appuntamento o avere maggiori informazioni sulle nostre attività scrivere a info@romapsicologia.it.</p>
 </div>
 <div class="left@sm w-50@sm">
   <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><h3 class="h4 my-1">Dott.ssa Mastroianni</h3></a>

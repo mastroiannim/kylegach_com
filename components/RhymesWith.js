@@ -5,7 +5,7 @@ class RhymesWith extends Component {
 
   render() {
     const rhyme = () => {
-      const rhymes = ['Tra moglie e marito non mettere il batch', 'Tra moglie e marito non mettere il hatch', 'Tra moglie e marito non mettere il latch']
+      const rhymes = ['La psicologia in rete e sul territorio', 'La psicologia in rete e sul territorio']
       const min = 1, max = rhymes.length
       const index = Math.floor(Math.random() * (max - min + 1)) + min;
       return rhymes[index - 1]
@@ -13,7 +13,7 @@ class RhymesWith extends Component {
 
     return (
       <p className="fs-5 italic">
-        Rhymes with {rhyme() || 'Tra moglie e marito non mettere il dito'}.
+         {rhyme() || 'La psicologia in rete e sul territorio'}.
       </p>
     )
   }
