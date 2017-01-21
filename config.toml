@@ -84,8 +84,8 @@ text = '''
   <div class="fs-6">
       <img src="carmela-mastroianni.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt="Carmela Mastroianni">
       <div class="mt-1@sm">
-        <div class="mt-1@sm">Psicologa Clinica e Psicoterapeuta specialista in Psicoterapia Psicoanalitica </div>
-        <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 18894 </div>
+        <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
+        <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
       </div>
   </div>
 </div>
@@ -94,7 +94,7 @@ text = '''
   <div class="fs-6">
       <img src="paolo-olivieri.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt="Paolo Olivieri">
       <div class="mt-1@sm">
-        <div class="mt-1@sm">Psicologo Clinico e Psicoterapeuta specialista in Psicoterapia Psicoanalitica</div>
+        <div class="mt-1@sm">Psicologo clinico ad indirizzo psicoanalitico. </div>
         <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
       </div>
   </div>
