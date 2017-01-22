@@ -7,9 +7,6 @@ intro: Il contesto scolastico
 figure: "scuola.jpg"
 
 ---
-
-##### Analisi del contesto
-
 ##### Destinatari
 Si possono iscrivere a questi incontri: insegnanti di diversi ordini di scuola, assistenti educativi culturali e dirigenti scolastici.
 ##### Finalità degli incontri

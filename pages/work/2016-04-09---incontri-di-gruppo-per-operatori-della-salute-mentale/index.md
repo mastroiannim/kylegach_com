@@ -8,8 +8,9 @@ figure: "salute-mentale.jpg"
 
 ---
 ##### Destinatari
+Gli incontri sono dedicati a chi lavora nell'ambito della salute mentale
 ##### Finalità
-Gli incontri sono  finalizzati a  rintracciare risorse e costruire strumenti utili nel lavoro.
+Sono  finalizzati a  rintracciare risorse e costruire strumenti utili nel lavoro.
 ##### Metodologia, durata e frequenza
 Si lavorerà in gruppo e gli incontri saranno attivati al raggiungimento di un numero minimo di 6 partecipanti, fino ad un massimo di 8.
 Gli incontri avranno una cadenza quindicinale e si svolgeranno nel fine settimana.

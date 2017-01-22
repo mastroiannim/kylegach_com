@@ -7,7 +7,7 @@ figure: "scuola.png"
 nascondiFigura: "si"
 ---
 ![alt text](scuola.jpg)
-Occuparci di orientamento scolastico per noi significa dare senso ai problemi nello studio. 
+Occuparsi di orientamento scolastico significa dare senso ai problemi nello studio. 
 Spesso ci confrontiamo con situazioni di crisi o di stallo che parlano della difficoltà a connettere studio e desiderio. 
 Lo studio è fatto coincidere con i compiti, vissuti come un obbligo a cui adempiere oppure no. 
 Gli studenti non vivono la scuola in rapporto con il loro futuro, e il rischio è quello di appiattire questa esperienza formativa dentro dinamiche di azione e reazione. 

@@ -2,7 +2,7 @@
 title: Consulenza alle famiglie
 path: /mission/ascolto-famiglia/
 blurb: Sostegno nella crisi
-intro: Aiutiamo le famiglie ad affrontare i cambiamenti che continuamente attraversano e i vissuti che li accompagnano, partendo dagli eventi critici che vengono portati in consulenza.
+intro: Aiutiamo le famiglie ad affrontare i cambiamenti che i vissuti che li accompagnano, partendo dagli eventi critici che vengono portati in consulenza.
 figure: "ascolto-famiglia.png"
 
 nascondiFigura: "si"
@@ -10,7 +10,7 @@ nascondiFigura: "si"
 ![alt text](famiglia.png)
 
 ##### ANALISI DELLA DOMANDA
-Il servizio è strutturato in un primo colloquio nel quale viene analizzato il problema portato in consulenza e proposti criteri di lettura del problema stesso.
+In un primo colloquio viene analizzato il problema portato in consulenza e proposti criteri di lettura del problema stesso.
 ##### LAVORO SU OBIETTIVI CONCORDATI
 Gli obiettivi del percorso, specifico per ogni famiglia, vengono concordati con lo psicologo, così come il numero degli incontri utili.
 ##### DI QUALI PROBLEMI CI OCCUPIAMO 
