@@ -8,7 +8,7 @@ nascondiFigura: "si"
 ---
 ![alt text](psicoterapia1.png)
 
-L'analisi psicoanalitica ha l'obiettivo di individuare linee di sviluppo per il cliente che richiede la consulenza.
+La psicoterapia ha l'obiettivo di individuare linee di sviluppo per il cliente che richiede la consulenza.
 
 Non esistono ricette universali per risolvere i problemi vissuti, ma percorsi di senso che vale la pena attraversare.
 
