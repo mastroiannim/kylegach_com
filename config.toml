@@ -55,7 +55,7 @@ text = '''
 <span class="right@md">
 <p class="my-0">info@romapsicologia.it</p>
 <p class="my-0">Si riceve su appuntamento</p>
-<p class="my-0">indirizzo:via Tuscolana 801</p>
+<p class="my-0">Studio in via Tuscolana 801</p>
 </span>
 '''
 
@@ -81,7 +81,7 @@ title = "Chi Siamo"
 text = '''
 <div class="left@md mb-3 items-center">
   <img src="/avatar.jpg" srcset="/avatar@2x.jpg 2x" width="150" height="150" alt="" class="avatar flexItem-33 w-33 mx-auto my-auto circle border borderColor-light" />
-  <p class="fs-4">Riceviamo su appuntamento.khkkhkhkhnkkkkhk</p>
+  <p class="fs-4">          </p>
 </div>
 <div class="left@sm w-50@sm">
   <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><h3 class="h4 my-1">Dott.ssa Mastroianni</h3></a>

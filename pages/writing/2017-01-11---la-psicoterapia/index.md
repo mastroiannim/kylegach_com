@@ -3,6 +3,7 @@ title: La psicoterapia
 path: /La-psicoterapia/
 date: 2017-01-11T16:01:34Z
 ---
+![alt text](psicoterapia.png)
 Il tipo di lavoro che proponiamo è caratterizzato da alcune dimensioni fondanti, che si organizzano a partire da dichiarate premesse teoriche e metodologiche che si dispiegano nella prassi clinica.
 L’intervento che promuove sviluppo è caratterizzato da alcuni aspetti fondamentali.
 L’obiettivo che orienta l’intervento è  l’utilizzazione delle risorse, individuali od organizzative, che possono promuovere lo sviluppo della relazione tra individui e contesto. 

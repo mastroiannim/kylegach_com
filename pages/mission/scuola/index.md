@@ -1,7 +1,7 @@
 ---
 title: Tutoring didattico
 path: /mission/scuola/
-blurb: Strumenti di lavoro per l'apprendimento 
+blurb: Strumenti per l'apprendimento 
 intro: Offriamo un servizio di orientamento scolastico e tutoraggio nell’apprendimento 
 figure: "scuola.png"
 nascondiFigura: "si"

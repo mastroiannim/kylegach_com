@@ -3,6 +3,7 @@ title: Due principi del funzionamento inconscio
 path: /writing/Due-principi-del-funzionamento-inconscio/
 date: 2016-12-30T22:08:10Z
 ---
+![alt text](due-principi-del-funzionamento-inconscio.png)
 Nel testo L’inconscio come insiemi infiniti lo psicoanalista cileno Ignacio Matte Blanco formula due principi del funzionamento mentale a partire dalla sua esperienza clinica con i pazienti psichiatrici.
 I due principi del funzionamento inconscio sono:
 il principio di generalizzazione e il principio di simmetria.

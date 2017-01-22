@@ -3,6 +3,7 @@ title: Il rapporto tra scuola e famiglie
 path: /writing/Il-rapporto-tra-scuole-e-famiglie/
 date: 2017-01-30T22:08:10Z
 ---
+![alt text](rapporto-scuola-e-famiglie.png)
 
 Il rapporto con le famiglie crea problemi nelle scuole. 
 Perchè?

@@ -1,11 +1,12 @@
 ---
 title: Psicoterapia psicoanalitica
 path: /mission/psicoterapia/
-blurb: Sviluppo personale e dei propri contesti 
+blurb: Sviluppo personale 
 intro: La psicoterapia a orientamento psicoanalitico è uno strumento utile a capire i problemi vissuti quotidianamente nei contesti di appartenenza.
 figure: "psicoterapia.png"
+nascondiFigura: "si"
 ---
-![alt text](psicoterapia.jpg)
+![alt text](psicoterapia1.png)
 
 
 
