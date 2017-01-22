@@ -38,7 +38,7 @@ class Home extends Component {
             title = {config.writing.title}
             blurb = {config.writing.blurb}
             link = {'/' + config.writing.dir + '/'}
-            linkText="archivio articoli"
+            linkText="leggi tutto"
           >
             <Pages pages={route.pages} folder={config.writing.dir} limit={2} row />
           </SectionBlock>

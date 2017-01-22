@@ -3,6 +3,8 @@ title: La metapsicologia
 path: /La-metapsicologia/
 date: 2017-01-11T16:01:34Z
 ---
+![alt text](metapsicologia.png)
+
 Premessa
 Nel saggio sulla rimozione viene spiegato come l’essenza del processo di rimozione non è sopprimere un’idea che rappresenta una pulsione(annullarla) ma impedirle di diventare cosciente. Tutto ciò che è rimosso è destinato a restare inconscio ma l’inconscio non è formato solo dal rimosso.
 Per conoscere il contenuto dell’inconscio bisogna portarlo tradurlo in qualcosa di coscio, e si è visto che ciò è possibile con la psicoanalisi, a patto che il soggetto superi quelle resistenze che hanno provocato la rimozione.

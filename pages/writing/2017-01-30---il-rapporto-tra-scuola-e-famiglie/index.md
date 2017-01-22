@@ -3,6 +3,7 @@ title: Il rapporto tra scuola e famiglie
 path: /writing/Il-rapporto-tra-scuole-e-famiglie/
 date: 2017-01-30T22:08:10Z
 ---
+
 Il rapporto con le famiglie crea problemi nelle scuole. 
 Perchè?
 Ci potrà essere utile pensare al ruolo che gli insegnanti ricoprivano socialmente qualche tempo fa, e quello che hanno oggi.
