@@ -1,7 +1,7 @@
 ---
 title: Consulenza alle famiglie
 path: /mission/ascolto-famiglia/
-blurb: 
+blurb: Un sostegno nella crisi, per lo sviluppo.
 intro: Aiutiamo le famiglie ad affrontare i cambiamenti che continuamente attraversano e i vissuti che li accompagnano, partendo dagli eventi critici che vengono portati in consulenza.
 figure: "ascolto-famiglia.png"
 nascondiFigura: "si"

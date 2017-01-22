@@ -1,7 +1,7 @@
 ---
 title: Orientamento lavorativo
 path: /mission/professionale/
-blurb: 
+blurb: Sviluppo professionale
 intro: Problemi legati al lavoro e sviluppo professionale
 figure: "sviluppo-professionale.png"
 ---
