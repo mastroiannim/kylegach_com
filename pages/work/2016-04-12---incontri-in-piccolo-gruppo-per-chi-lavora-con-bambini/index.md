@@ -20,5 +20,3 @@ Gli incontri avranno una durata di due ore e si svolgeranno, con una cadenza qui
 Il gruppo di lavorò sarà attivato a partire da marzo 2017, previo raggiungimento del numero minimo di iscritti.
 Il numero di iscritti minimo per l’attivazione del gruppo è di 5 persone, per un massimo di 7 iscritti.
 
-#### Per maggiori informazioni e per iscriversi al gruppo contattarci tramite l’email: info@romapsicologia.it
-specificando l’interesse per il corso in questione e indicando un numero di telefono di riferimento per essere ricontattati.

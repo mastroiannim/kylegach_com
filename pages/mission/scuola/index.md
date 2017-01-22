@@ -1,5 +1,5 @@
 ---
-title: TUTORING DIDATTICO
+title: Tutoring didattico
 path: /mission/scuola/
 blurb: 
 intro: Offriamo un servizio di orientamento scolastico e tutoraggio nell’apprendimento 

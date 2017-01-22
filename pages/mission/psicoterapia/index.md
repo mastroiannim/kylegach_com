@@ -1,5 +1,5 @@
 ---
-title: PSICOTERAPIA PSICONALITICA
+title: Psicoterapia psicoanalitica
 path: /mission/psicoterapia/
 blurb: 
 intro: La psicoterapia a orientamento psicoanalitico è uno strumento utile a capire i problemi vissuti quotidianamente nei contesti di appartenenza.

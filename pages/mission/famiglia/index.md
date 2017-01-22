@@ -1,5 +1,5 @@
 ---
-title: CONSULENZA ALLE FAMIGLIE
+title: Consulenza alle famiglie
 path: /mission/ascolto-famiglia/
 blurb: 
 intro: Aiutiamo le famiglie ad affrontare i cambiamenti che continuamente attraversano e i vissuti che li accompagnano, partendo dagli eventi critici che vengono portati in consulenza.

@@ -1,5 +1,5 @@
 ---
-title: ORIENTAMENTO LAVORATIVO
+title: Orientamento lavorativo
 path: /mission/professionale/
 blurb: 
 intro: Problemi legati al lavoro e sviluppo professionale

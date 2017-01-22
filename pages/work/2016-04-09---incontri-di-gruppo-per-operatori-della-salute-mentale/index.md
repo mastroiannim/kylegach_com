@@ -17,7 +17,5 @@ La durata di ogni incontro è di  3 ore.
 E’ proposto un ciclo di 6 incontri.
 I prossimi incontri partiranno nel mese di marzo.
 
-#### Contattare la segreteria per iscriversi agli incontri e richiedere il calendario
-
 E’ previsto un colloquio di commitenza prima dell’iscrizione al ciclo di incontri.
 
