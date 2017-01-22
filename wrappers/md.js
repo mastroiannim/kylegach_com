@@ -22,6 +22,7 @@ class MDWrapper extends Component {
     const commentPrompt = access(page, 'data.commentPrompt') || false
     const goals = access(page, 'data.goals') || ''
     const figure = access(page, 'data.figure') || ''
+    const nascondiFigura = access(page, 'data.nascondiFigura') || ''
 
     const byline = (date && dirName === 'writes') ? (<Byline date={date} />) : ''
 
@@ -44,7 +45,8 @@ class MDWrapper extends Component {
       var style = {
           border: "none"
       };
-      Figure = <img className="w-100 mx-auto my-auto" src={figure} />
+      if(nascondiFigura != "si")
+        Figure = <img className="w-100 mx-auto my-auto" src={figure} />
     }
 
     if ( goals && figure ) {
@@ -80,7 +82,7 @@ class MDWrapper extends Component {
     } else if ( figure ) {
       workHeader = (
         <div className="mt-3">
-          {Figure}
+            {Figure}
         </div>
       )
     }
