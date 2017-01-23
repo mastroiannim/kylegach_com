@@ -71,7 +71,7 @@ dir = "work"
 
 [writing]
 title = "Blog"
-blurb = "Approfondimenti teorici, casi clinici, contesti di intervento e questioni che ci interessano"
+blurb = "Approfondimenti teorici, contesti di intervento e questioni che ci interessano"
 dir = "writing"
 
 [about]
