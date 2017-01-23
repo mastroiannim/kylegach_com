@@ -60,7 +60,7 @@ text = '''
 [mission]
 title = "mission"
 blurb = '''
-Forniamo un servizio di consulenza sui problemi incontrati dalle persone nella vita quotidiana
+Un servizio di consulenza su problemi 
 '''
 dir = "mission"
 
