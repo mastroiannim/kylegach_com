@@ -25,10 +25,10 @@ class WorkTeaser extends Component {
 
     return (
       <figure className="mb-4 flex@sm">
-        <div className="m-0 flexItem-auto">
+        <div className="m-0 flexItem-25">
           { Figure }
         </div>
-        <figcaption className="flexItem-50 ml-3@sm mt-1 mt-0@sm">
+        <figcaption className="flexItem-75 ml-3@sm mt-1 mt-0@sm">
           <h3 id={id} className="h4 mb-2"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
           <p className="mb-2">{blurb}</p>
           <Link to={prefixLink(page.path)} className="inlineBlock" aria-labelledby={id}>Più informazioni&hellip;</Link>
