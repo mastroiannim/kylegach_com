@@ -29,7 +29,7 @@ class Home extends Component {
             title={config.work.title}
             blurb={config.work.blurb}
             link = {'/' + config.work.dir + '/'}
-            linkText="attività svolte"
+            linkText="vedi tutto"
           >
             <Pages pages={route.pages} folder={config.work.dir} limit={2} />
           </SectionBlock>
@@ -38,7 +38,7 @@ class Home extends Component {
             title = {config.writing.title}
             blurb = {config.writing.blurb}
             link = {'/' + config.writing.dir + '/'}
-            linkText="leggi tutto"
+            linkText="archivio articoli"
           >
             <Pages pages={route.pages} folder={config.writing.dir} limit={2} row />
           </SectionBlock>

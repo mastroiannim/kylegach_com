@@ -66,12 +66,12 @@ dir = "mission"
 
 [work]
 title = "attività di prossimo avvio"
-blurb = "Spazi di manutenzione della propria professionalità."
+blurb = "Segui le nostre proposte per la manutenzione professionale"
 dir = "work"
 
 [writing]
 title = "Blog"
-blurb = "I nostri articoli"
+blurb = "Approfondimenti teorici, casi clinici, contesti di intervento e questioni che ci interessano"
 dir = "writing"
 
 [about]
