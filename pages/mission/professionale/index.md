@@ -2,7 +2,7 @@
 title: Orientamento lavorativo
 path: /mission/professionale/
 blurb: Sviluppo professionale
-intro: Problemi legati al lavoro e sviluppo professionale
+intro: Ci occupiamo di problemi legati al lavoro proponendo lo sviluppo professionale di chi ci richiede una consulenza.
 figure: "sviluppo-professionale.png"
 nascondiFigura: "si"
 ---

@@ -14,9 +14,10 @@ Gli incontri sono quindi rivolti ad educatori, insegnanti, baby sitter, persone 
 Gli incontri saranno finalizzati a sviluppare insieme al consulente nel lavoro con il gruppo,  strumenti di lavoro per la crescita professionale.
 ##### Metodologia
 Il lavoro in piccolo gruppo permette il riconoscimento e sviluppo delle competenze già maturate nella propria attività lavorativa.
-Il gruppo, infatti, permette di partecipare dell’esperienza degli altri e attivare una riflessione condivisa per la costruzione di conoscenza e di strumenti di lavoro.
 ##### Condizioni e tempistiche
 Gli incontri avranno una durata di due ore e si svolgeranno, con una cadenza quindicinale, per 3 mesi.
 Il gruppo di lavorò sarà attivato a partire da marzo 2017, previo raggiungimento del numero minimo di iscritti.
 Il numero di iscritti minimo per l’attivazione del gruppo è di 5 persone, per un massimo di 7 iscritti.
+
+E' previsto un colloquio di committenza prima dell'iscrizione al ciclo di incontri.
 

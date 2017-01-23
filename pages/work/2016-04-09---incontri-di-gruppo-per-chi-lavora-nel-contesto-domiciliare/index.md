@@ -12,14 +12,14 @@ In questo contesto si incrociano quindi bambini, anziani, disabili, persone che 
 ##### Destinatari
 Gli incontri sono quindi rivolti a baby sitter, tutor per i compiti, assistenti domiciliari, badanti;  persone che lavorano nel contesto domiciliare e che  vorrebbero sviluppare strumenti utili per la propria crescita personale e professionale.
 ##### Finalità
-Gli incontri saranno finalizzati a costruire insieme al consulente e al gruppo di lavoro, categorie di pensiero che permettano di leggere in maniera produttiva le situazioni di lavoro che si incontrano quotidianamente, costruendo un funzione meta che permetta di verificare il proprio lavoro e svilupparne le potenzialità.
+Gli incontri saranno finalizzati a riconoscere e costruire strumenti utili nel  lavoro, per leggere i problemi che si incontrano quotidianamente, per verificare il proprio lavoro e per svilupparne le potenzialità.
 ##### Metodologia
 Il lavoro in piccolo gruppo permette il riconoscimento e sviluppo delle competenze già maturate nella propria attività lavorativa.
-Il gruppo, infatti, permette di partecipare dell’esperienza degli altri e attivare una riflessione condivisa per la costruzione di conoscenza e di strumenti di lavoro.
-
+Permette di partecipare dell’esperienza degli altri e attivare una riflessione condivisa.
 ##### Attivazione prossimi incontri
 Gli incontri avranno una durata di due ore e si svolgeranno, con una cadenza quindicinale, per 3 mesi.
 Il gruppo di lavorò sarà attivato a partire da marzo 2017, previo raggiungimento del numero minimo di iscritti.
 Il numero di iscritti minimo per l’attivazione del gruppo è di 5 persone, per un massimo di 7 iscritti.
 
+E’ previsto un colloquio di commitenza prima dell’iscrizione al ciclo di incontri.
 

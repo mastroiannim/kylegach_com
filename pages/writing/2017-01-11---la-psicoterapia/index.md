@@ -6,7 +6,7 @@ date: 2017-01-11T16:01:34Z
 ![alt text](psicoterapia.png)
 
 Il tipo di psicoterapia che proponiamo è caratterizzato da alcune dimensioni fondanti, che si organizzano a partire da dichiarate premesse teoriche e metodologiche che si dispiegano nella prassi clinica.
-L’intervento che promuove sviluppo è caratterizzato da alcuni aspetti fondamentali.
+
 L’obiettivo che orienta l’intervento è  l’utilizzazione delle risorse, individuali od organizzative, che possono promuovere lo sviluppo della relazione tra individui e contesto. 
 Questo obiettivo rende indispensabile una premessa e cioè che lo psicologo conosca il contesto, e non solo l’individuo e delle sue dinamiche interne, al fine di orientare il suo intervento entro le coordinate, possibili, di sviluppo dei sistemi sociali.
 Questo metodologia di intervento per la quale l‘esplorazione del contesto è parte fondante dello stesso intervento, è riferibile sia a situazioni delle quali lo psicologo interviene per dei problemi organizzativi, sia nel caso della psicoterapia “individuale”.
