@@ -65,6 +65,8 @@ class Template extends Component {
     c) Nearly all of my audience is likely to be in the US and it's acceptable
        if the effect is off by ±2 hrs.
     */
+    
+    /*
     const time = moment()
     const sunset = suncalc.getTimes(time, 41.9, 12.4833).sunset
     const sunrise = suncalc.getTimes(time, 41.9, 12.4833).sunrise
@@ -72,6 +74,7 @@ class Template extends Component {
     if ( time.isAfter(sunset) || time.isBefore(sunrise) ) {
       this.toggleReverse()
     }
+    */
   }
 
   toggleReverse = () => {
