@@ -97,7 +97,7 @@ class MDWrapper extends Component {
           </header>
           { intro }
           { workHeader }
-          <div dangerouslySetInnerHTML={{ __html: page.data.body }} className="markdown mt-3" />
+          <div dangerouslySetInnerHTML={{ __html: page.data.body }} className="markdown mt-3 textJustify" />
           <footer>
             { prompt }
             <ReadNext post={page} pages={route.pages} />

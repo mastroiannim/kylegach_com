@@ -9,6 +9,7 @@ nascondiFigura: "si"
 ---
 
 L'obiettivo è quello di individuare linee di sviluppo possibili partendo dagli eventi critici che vengono portati in consulenza.
+
 ![alt text](famiglia.png)
 ##### Analisi della domanda
 In un primo colloquio viene analizzato il problema portato in consulenza e proposti criteri di lettura utili.

@@ -6,7 +6,8 @@ intro: Non esistono ricette universali per risolvere i problemi vissuti, ma perc
 figure: "psicoterapia.png"
 nascondiFigura: "si"
 ---
-La psicoterapia a orientamento psicoanalitico è uno strumento utile a capire i problemi vissuti quotidianamente nei contesti di appartenenza e a sviluppare la competenza a comprendere i contesti in cui si vive e lavora partecipandovi in maniera produttiva
+La psicoterapia a orientamento psicoanalitico è uno strumento utile a capire i problemi vissuti quotidianamente nei contesti di appartenenza e a sviluppare la competenza a comprendere i contesti in cui si vive e lavora partecipandovi in maniera produttiva.
+
 ![alt text](psicoterapia1.png)
 #### Finalità della psicoterapia che propone sviluppo
 La psicoterapia ha l'obiettivo di individuare linee di sviluppo per il cliente che richiede la consulenza.

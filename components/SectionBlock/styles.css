@@ -54,3 +54,11 @@
     background-color: var(--sectionBlockBorder-4-reverse);
   }
 }
+
+.sectionBlock--contatti::before {
+  background-color: var(--sectionBlockBorder-1);
+
+  @nest .is-reverse & {
+    background-color: var(--sectionBlockBorder-1-reverse);
+  }
+}
