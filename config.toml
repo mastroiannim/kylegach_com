@@ -16,7 +16,7 @@ if ('classList' in document.createElement('div') && 'querySelector' in document 
 """
 analytics = """
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-xxxxxxxx-x', 'auto');
+ga('create', 'UA-35604519-1', 'auto');
 ga('send', 'pageview');
 """
 font = """
