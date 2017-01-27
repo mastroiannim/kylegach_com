@@ -46,7 +46,7 @@ class MDWrapper extends Component {
           border: "none"
       };
       if(nascondiFigura != "si")
-        Figure = <img className="w-100 mx-auto my-auto" src={figure} />
+        Figure = <img className="w-100 mx-auto my-auto" src={figure} alt={figure}/>
     }
 
     if ( goals && figure ) {

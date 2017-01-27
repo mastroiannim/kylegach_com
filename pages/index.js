@@ -51,7 +51,6 @@ class Home extends Component {
           <SectionBlock 
             title = {config.contatti.title}
             blurb = {config.contatti.blurb}
-            link = {'/' + config.contatti.dir + '/'}
           >
             <Contatti 
                 pages={route.pages} 

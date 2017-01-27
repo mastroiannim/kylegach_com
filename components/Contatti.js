@@ -34,15 +34,15 @@ class Contatti extends Component {
           <div className='mt-0'>
               <div className='mt-0 h5'>{info}</div>
               <div className='mt-2@sm'>
-                <img className='left mr-1 mt-1' src="indirizzo.png"/>
+                <img className='left mr-1 mt-1' src="indirizzo.png" alt="indirizzo"/>
                 <div className='ml-1@sm mt-0 fs-5 pl-2@sm'>{indirizzo}</div>
               </div>
               <div className='mt-1@sm'>
-                <img className='left mr-1 mt-1' src="telefono.png"/>
+                <img className='left mr-1 mt-1' src="telefono.png" alt="telefono"/>
                 <div className='ml-1@sm mt-0 fs-5'>{telefono}</div>
               </div>
               <div className='mt-1@sm'>
-                <img className='left mr-1 mt-1' src="mail.png"/>
+                <img className='left mr-1 mt-1' src="mail.png" alt="mail"/>
                 <div className='ml-1@sm mt-0 fs-5'><a href={'mailto:' + config.email}>{config.email}</a></div>
               </div>
           </div>

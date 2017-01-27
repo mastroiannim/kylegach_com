@@ -23,15 +23,15 @@ class WorkTeaser extends Component {
           border: "none"
       };
       let srcFig = prefixLink(page.path) + figure
-      Figure = <Link style={style} to={prefixLink(page.path)}><img className="w-auto mt-auto ml-2 mx-3 relative" src={srcFig} /></Link>
+      Figure = <Link style={style} to={prefixLink(page.path)}><img className="w-auto mt-auto ml-2 mx-3 relative" src={srcFig} alt={prefixLink(page.path)}></img></Link>
     }
 
     return (
       <figure className="mb-2 flex@sm">
-        <div className="mr-5 ml-5 flexItem-33">
+        <div className="mx-1 flexItem-25">
           { Figure }
         </div>
-        <figcaption className="flexItem-66 ml-1@sm mt-1 mt-0@sm">
+        <figcaption className="flexItem-75 ml-2@sm mt-0">
           <h3 id={id} className="h4 mb-1"><Link to={prefixLink(page.path)} className="camoLink">{title}</Link></h3>
           <p className="mb-0">{blurb}</p>
         </figcaption>

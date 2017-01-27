@@ -53,7 +53,7 @@ favicons = '''
 [header]
 text = '''
 <span class="right@md">
-<img class="right mx-auto my-auto w-75" src="logo.png"></img>
+
 </span>
 '''
 
