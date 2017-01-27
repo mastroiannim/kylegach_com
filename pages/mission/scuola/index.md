@@ -6,7 +6,8 @@ intro: Occuparsi di orientamento scolastico significa dare senso ai problemi vis
 figure: "scuola.png"
 nascondiFigura: "si"
 ---
-Spesso ci confrontiamo con situazioni di crisi o di stallo che parlano della difficoltà a connettere studio e desiderio. 
+Spesso ci confrontiamo con situazioni di crisi o di stallo che parlano della difficoltà a connettere studio e desiderio.
+
 ![alt text](scuola.jpg)
 ##### Quali richieste ci arrivano 
 * Spesso arrivano in consulenza le richieste di genitori per difficoltà nello studio dei figli.

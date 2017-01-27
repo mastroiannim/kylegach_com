@@ -53,7 +53,7 @@ favicons = '''
 [header]
 text = '''
 <span class="right@md">
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fconsulenzapsicologica.roma.5%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+<img class="right mx-auto my-auto w-25" src="logo.png"></img>
 </span>
 '''
 
@@ -74,30 +74,42 @@ title = "Blog"
 blurb = "Approfondimenti teorici, contesti di intervento e questioni che ci interessano"
 dir = "writing"
 
+[contatti]
+title = "Contatti"
+info = "Per informazioni o fissare un appuntamento."
+blurb = "I nostri contatti"
+telefono = "(39) 393 556 0220"
+indirizzo = "Ci troviamo in via Tuscolana (altezza metro Lucio Sestio)"
+key = "AIzaSyB7uh9F1MAA3zFAiiDLGreD6CSRg6wGPEU"
+lat = 41.859868
+lng = 12.557095
+
 [about]
 title = "Chi Siamo"
 text = '''
-<div class="left@md mb-3 items-center">
-  <img src="/avatar.jpg" srcset="/avatar@2x.jpg 2x" width="150" height="150" alt="" class="avatar flexItem-33 w-33 mx-auto my-auto circle border borderColor-light" />
-  <p class="fs-4">          </p>
+<div class="left@md mb-3 flexItem-100 w-100 items-center">
+    <span class="right@md" mr-0>
+        <iframe class="avatar mr-0" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fconsulenzapsicologica.roma.5&tabs&width=100&height=200&small_header=false&adapt_container_width=true&hide_cover=true&show_facepile=false&appId=351368248230367" width="180" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+    </span>
+    <p class="fs-4">          
+    </p>
 </div>
-<div class="left@sm w-50@sm">
+<div class="left@sm w-50@sm pr-2">
   <a href="https://it.linkedin.com/in/carmela-mastroianni-23502226"><h3 class="h4 my-1">Dott.ssa Mastroianni</h3></a>
-  <div class="fs-6">
-      <img src="carmela-mastroianni.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt="Carmela Mastroianni">
-      <div class="mt-1@sm">
-        <div class="mt-1@sm">Psicologo e Psicoterapeuta specialista in Psicoterapia Psicoanalitica. </div>
-        <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n°18894</div>
+  <div class="fs-5">
+      <img src="carmela-mastroianni.jpg" class="left mr-1 flexItem-25 w-33 circle" alt="Carmela Mastroianni"/>
+      <div class="mt-1@sm flexItem-75 w-auto pl-0 pr-1">
+        Psicologo e Psicoterapeuta specialista in Psicoterapia Psicoanalitica.
+        <p>Iscrizione Ordine degli Psicologi del Lazio n°18894</p>
       </div>
   </div>
 </div>
-<div class="left@sm w-50@sm">
+<div class="left@sm w-50@sm pl-2">
   <a href="https://it.linkedin.com/in/paolo-olivieri-64a4884a"><h3 class="h4 my-1">Dott. Olivieri</h3></a>
-  <div class="fs-6">
-      <img src="paolo-olivieri.jpg" class="left@sm flexItem-33 w-33 mx-1 my-auto circle border borderColor-light" width="150" height="150" alt="Paolo Olivieri">
-      <div class="mt-1@sm">
-        <div class="mt-1@sm">Psicologo e Psicoterapeuta specialista in Psicoterapia Psicoanalitica. </div>
-        <div class="mt-1@sm">Iscrizione Ordine degli Psicologi del Lazio n° 19102</div>
+  <div class="fs-5">
+      <img src="paolo-olivieri.jpg" class="left mr-1 flexItem-25 w-33 circle" alt="Paolo Olivieri"/>
+      <div class="mt-1@sm flexItem-75 w-auto pl-0  pr-1">
+        Psicologo e Psicoterapeuta specialista in Psicoterapia Psicoanalitica. <p>Iscrizione Ordine degli Psicologi del Lazio n° 19102</p>
       </div>
   </div>
 </div>

@@ -8,6 +8,7 @@ figure: "ascolto-famiglia.png"
 nascondiFigura: "si"
 ---
 L'obiettivo è quello di individuare linee di sviluppo possibili partendo dagli eventi critici che vengono portati in consulenza.
+
 ![alt text](famiglia.png)
 
 A partire dall'analisi del problema portato in consulenza, verranno sviluppati gli obiettivi del percorso, specifici per ogni famiglia.

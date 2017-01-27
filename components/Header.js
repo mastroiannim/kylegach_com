@@ -43,6 +43,7 @@ class Header extends Component {
           <h1 className="inline fontSize-inherit"><Link to={prefixLink('/')}>{config.siteTitle}</Link></h1>
           {seperator}
           {breadcrumbs}
+          <img className="right mx-auto my-auto w-10" src="/logo.png"></img>
         </nav>
       </header>
     )

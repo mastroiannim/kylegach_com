@@ -2,3 +2,4 @@
 node_modules/*
 
 .gatsby-context.js
+public/*

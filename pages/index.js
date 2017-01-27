@@ -3,6 +3,7 @@ import React, { Component, PropTypes } from 'react'
 
 import HeaderBlock from 'components/HeaderBlock'
 import Pages from 'components/Pages'
+import Contatti from 'components/Contatti'
 import SectionBlock from 'components/SectionBlock'
 
 
@@ -45,6 +46,22 @@ class Home extends Component {
 
           <SectionBlock title={config.about.title}>
             <div className="cf" dangerouslySetInnerHTML={{ __html: config.about.text }} />
+          </SectionBlock>
+        
+          <SectionBlock 
+            title = {config.contatti.title}
+            blurb = {config.contatti.blurb}
+            link = {'/' + config.contatti.dir + '/'}
+          >
+            <Contatti 
+                pages={route.pages} 
+                telefono={config.contatti.telefono}
+                indirizzo={config.contatti.indirizzo}
+                info={config.contatti.info}
+                lat={config.contatti.key}
+                lat={config.contatti.lat}
+                lng={config.contatti.lng}        
+            />
           </SectionBlock>
 
         </main>
