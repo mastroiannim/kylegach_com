@@ -6,6 +6,7 @@ blurb: Spazi di manutenzione del proprio sviluppo professionale nel contesto dom
 intro: Il contesto domiciliare si contraddistingue per la sua specifica connotazione. Non è il cliente che si reca dal professionista, ma è il professionista che accede alle dimensioni domestiche.
 
 figure: "contesto-domiciliare.jpg"
+
 ---
 ##### Analisi del contesto
 In questo contesto si incrociano quindi bambini, anziani, disabili, persone che non hanno direttamente richiesto l’intervento del professionista. Questa è un aspetto importante da tenere a mente, per lavorare al meglio con la persona e con la famiglia che richiede il servizio.
