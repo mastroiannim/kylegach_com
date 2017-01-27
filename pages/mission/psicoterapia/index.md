@@ -18,11 +18,8 @@ L’obiettivo è continuamente oggetto di contrattazione tra psicoterapeuta e pa
 #### Quali sono le richieste
 Arrivano in analisi persone con la richiesta di intervenire su sintomi o problemi identificati come fatti esterni al proprio controllo, rispetto ai quali si vive un forte sentimento di impotenza e si vorrebbe una risoluzione per mezzo di un intervento anch'esso esterno.
 L'analisi della domanda permette di comprendere il senso della richiesta portata, a partire dal quale si indaga sul perchè di un sintomo, di una sofferenza, di una difficoltà.
-Incontriamo persone che hanno una richiesta più esplicita di comprensione dei problemi che vivono e  che identificano l'analisi con un percorso di conoscenza.  
-L'obiettivo sarà sviluppare una comprensione dei problemi vissuti in rapporto ai contesti in cui si vive e lavora per parteciparvi in maniera produttiva, promuovendo uno sviluppo personale e professionale.
+Incontriamo persone che hanno una richiesta più esplicita di comprensione dei problemi che vivono e  che identificano l'analisi con un percorso di conoscenza. 
+L'obiettivo è creare categorie di lettura delle dimensioni simboliche e delle dinamiche relazionali presenti nei contesti di vita, categorie che diventano utili strumenti di lettura dei contesti e del proprio modo di parteciparvi, promuovendo uno sviluppo personale e professionale.
 #### Metodologia proposta
-Analizzare la domanda portata dal cliente significa comprendere il senso del problema vissuto, con l'obiettivo di acquisire strumenti che aiutino a capire le proprie relazioni di vita e i contesti sociali a cui si partecipa.
+Analizzare la domanda portata dal cliente significa comprendere il senso del problema vissuto, con l'obiettivo di acquisire strumenti che aiutino a capire le proprie relazioni di vita e i contesti sociali.
 Dentro questa metodologia di lavoro, gli obiettivi vengono concordati tra le persona che chiede una psicoterapia, il cliente, e lo psicoterapeuta: in questo modo la terapia assume valore di consulenza su obiettivi specifici, trasformabili di volta in volta.
-
-
-
