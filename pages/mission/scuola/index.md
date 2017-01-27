@@ -14,7 +14,7 @@ Spesso ci confrontiamo con situazioni di crisi o di stallo che parlano della dif
 La richiesta può sottendere diverse problematiche.
 
 Attraverso l'analisi della domanda, spesso diventa evidente come lo studio, fatto coincidere con i compiti, sia vissuto come un obbligo a cui adempiere oppure no. 
-Gli studenti non vivono la scuola in rapporto con il loro futuro, e il rischio è quello di appiattire questa esperienza formativa dentro dinamiche di azione e reazione, agite nei contesti familiare e scolastico. 
+Gli studenti non vivono la scuola in rapporto con il loro futuro, e il rischio è quello di appiattire l'esperienza formativa dentro dinamiche di azione e reazione, agite nei contesti familiare e scolastico. 
 
 - Proponiamo un servizio di tutoraggio nell’apprendimento per ragazzi con disturbi specifici dell’apprendimento, fornendo strumenti utili nello studio e aiutando i ragazzi ad elaborare le loro motivazioni e vissuti sulla scuola e nel rapporto con i genitori.
 
